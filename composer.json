@@ -1,0 +1,20 @@
+{
+    "name": "kikocorsentino/lumen-maker",
+    "description": "Lumen Maker improves Lumen with controllers and models generator.",
+    "type": "Lumen",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kiko Corsentino",
+            "email": "kiko@corsentino.net"
+        }
+    ],
+    "require": {
+      "laravel/lumen-framework": "~5.2"
+    },
+    "autoload": {
+      "psr-4": {
+        "KikoCorsentino\\LumenMaker\\": "src/"
+      }
+    }
+}

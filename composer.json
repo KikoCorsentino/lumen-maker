@@ -3,6 +3,7 @@
     "description": "Lumen Maker improves Lumen with controllers and models generator.",
     "type": "Lumen",
     "license": "MIT",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Kiko Corsentino",

@@ -31,4 +31,4 @@ $app->register(KikoCorsentino\LumenMaker\LumenMakerServiceProvider::class); // <
 
 #### Commands
 * `make:controller {name}` - Makes a new restful controller in Http/Controllers/
-* `make:model {name}` - Makes a new model in /
+* `make:model {name}` - Makes a new model in App/

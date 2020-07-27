@@ -1,4 +1,4 @@
-# lumen-make
+# lumen-maker
 Lumen Maker is built for porting some of the _make_ commands from Laravel.
 
 This package works well for 5.2.
